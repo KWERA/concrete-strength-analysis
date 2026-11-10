@@ -60,8 +60,6 @@ Run all cells from top to bottom. The notebook reads the data from `data/Concret
 - All models were least accurate on high-strength mixes.
 - The models show predictive associations only. They do not show that changing cement content causes a change in strength.
 
-See the full report in [`reports/`](reports/) for details.
-
 ## Author
 
 Kwera Stella M

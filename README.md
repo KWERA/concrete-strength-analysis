@@ -5,9 +5,6 @@
 This project predicts the compressive strength of concrete (MPa) from its mix ingredients and curing age. It compares a mean-prediction baseline with linear, polynomial and tree-based regression models, examines where the models make errors, and discusses whether the results can support causal claims.
 
 ## Dataset
-
-- **Source:** UCI Machine Learning Repository, [Concrete Compressive Strength](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)
-- **Citation:** Yeh, I-C. (1998). Modeling of strength of high-performance concrete using artificial neural networks. *Cement and Concrete Research*, 28(12), 1797-1808.
 - **Size:** 1,030 laboratory tests, 8 predictors, 1 target
 - **Predictors:** cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate (all kg/m³) and age (days)
 - **Target:** compressive strength (MPa)

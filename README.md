@@ -1,6 +1,6 @@
 # Concrete Compressive Strength Prediction
 
-**DSC8307 Data Mining, Modeling and Analytics, Project 2 (Advent 2026)**
+** Data Mining, Modeling and Analytics, Project 2 
 
 This project predicts the compressive strength of concrete (MPa) from its mix ingredients and curing age. It compares a mean-prediction baseline with linear, polynomial and tree-based regression models, examines where the models make errors, and discusses whether the results can support causal claims.
 
